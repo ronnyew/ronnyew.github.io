@@ -1,0 +1,27 @@
+<?xml version="1.0" ?> 
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0"> 
+ <channel> 
+   <item>
+      <g:id>90539387</g:id>
+      <g:title><![CDATA[Long T-Shirt]]></g:title>
+      <g:description><![CDATA[Buy the best quality t-shirts made from 100% cotton. Sizes range from M-XXL.]]></g:description>
+      <g:details><![CDATA[_100% cotton]]></g:details>
+      <g:link>http://exampleurl.com/examplefeed/long-t-shirt/0935879875.html</g:link>
+      <g:image_link>http://exampleurl.com/examplefeed/image/Long_Sleeve_YELLOW</g:image_link>
+      <g:price>39.99</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:brand>Example</g:brand>
+      <g:google_product_category>167</g:google_product_category>
+      <g:sale_price>33.99</g:sale_price>
+      <g:product_type>T-Shirt</g:product_type>
+      <g:gtin>90285983798</g:gtin>
+      <g:item_group_id>90359837</g:item_group_id>
+      <quantity>59</quantity>
+      <option_values>
+        <color>Yellow</color>
+        <size>XXL</size>
+      </option_values>
+    </item>
+  </channel>
+</rss>
